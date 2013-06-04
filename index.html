@@ -389,7 +389,9 @@ if ("ontouchstart" in document.documentElement) {
 -->
 <script src="socket_client/socket.io.js"></script>
 <script type="text/javascript">
-    var socket = io.connect('http://192.168.255.99:8090');
+//    var socket = io.connect('http://173.255.251.162:8090');
+//    var socket = io.connect('http://192.168.1.5:8090');
+var socket = io.connect('http://192.168.1.5:8090');
     var steps = document.getElementsByClassName('step');
     socket.on('connect', function () {
         socket.emit('pageTotal', { pageTotal: steps.length});

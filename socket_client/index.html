@@ -37,7 +37,8 @@
 <script src="socket.io.js"></script>
 <script type="text/javascript">
     //启动服务：node e:/nodejs/socket_server/server.js
-    var socket = io.connect('http://192.168.255.99:8090');
+//    var socket = io.connect('http://173.255.251.162:8090');
+    var socket = io.connect('http://192.168.1.5:8090');
     var thisPage = 1;
     var maxPage = 100;//课件返回总页数
     socket.on('connect', function () {
