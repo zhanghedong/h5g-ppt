@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="user-scalable=no">
+    <title></title>
+    <style type="text/css">
+        .opt,html,body{
+            padding:0;
+            margin:0;
+            height: 100%;
+            width:100%;
+        }
+        .opt a{
+            position: relative;
+            height: 100%;
+            line-height: 100%;
+            width:48%;
+            text-align: center;
+            font-size: 36px;
+            display: inline-block;
+            background-color: #00a300;
+            text-decoration: none;
+        }
+        #next{
+            position: absolute;
+            right:0;
+            background-color: #2d89ef;
+        }
+
+    </style>
+</head>
+<body>
+<div class="opt">
+    <a id="prev" href="#">上一页</a><a id="next" href="#">下一页</a>
+</div>
+<script src="socket.io.min.js"></script>
+<script type="text/javascript">
+    //启动服务：node e:/nodejs/socket_server/server.js
+    var socket = io.connect('http://66.175.213.230:8090');
+//    var socket = io.connect('http://192.168.1.5:8090');
+    var thisPage = 1;
+    var maxPage = 100;//课件返回总页数
+    socket.on('connect', function () {
+        console.log('connect');
+        socket.on('message', function (msg) {
+            console.log(msg);
+        });
+    });
+    socket.on('msg', function (data) {
+        console.log(data);
+//        socket.emit('my other event', { my: 'data' });
+    });
+    socket.on('pageTotal', function (data) {
+        maxPage = data.pageTotal;//设置总页数
+//        socket.emit('my other event', { my: 'data' });
+    });
+    document.getElementById('next').onclick =function(){
+        if(thisPage < maxPage){
+            thisPage += 1;
+        }else{
+            thisPage = 1;
+        }
+        socket.send(thisPage);
+        return false;
+    };
+    document.getElementById('prev').onclick =function(){
+        if(thisPage == 1){
+            thisPage = maxPage ;
+        }else{
+            thisPage -= 1;
+        }
+        socket.send(thisPage);
+        return false;
+    };
+</script>
+</body>
+</html>

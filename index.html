@@ -170,6 +170,7 @@
 -->
 <div class="step slide home" data-x="-1000" data-y="-1500">
     <h1>H5游戏项目集成解决方案</h1>
+    <!--<img src="images/socket_ppt.png" alt="" class="socket-ppt" />-->
 
     <h2>适用于游戏、中大型网站项目</h2>
     <q class="profile">
@@ -506,7 +507,6 @@ define(function(require, exports, module) {
         socket.emit('pageTotal', { pageTotal: steps.length});
     });
     socket.on('msg', function (data) {
-        console.log(data);
         if (!isNaN(data)) {
             if (data > steps.length) {
                 socket.emit('pageTotal', { pageTotal: steps.length});
