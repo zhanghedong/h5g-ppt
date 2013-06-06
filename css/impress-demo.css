@@ -187,7 +187,7 @@ a:focus {
 */
 .impress-enabled .step {
     margin: 0;
-    opacity: 0.3;
+    opacity: 0.05;
 
     -webkit-transition: opacity 1s;
     -moz-transition:    opacity 1s;
@@ -701,3 +701,57 @@ a:focus {
     Thanks for reading. I hope you enjoyed it at least as much as I enjoyed writing it
     for you.
 */
+
+h1{
+    font-size: 1.25em;
+    line-height: 2;
+}
+h2{
+    font-size: 1em;
+    line-height: 2;
+}
+.home h1{
+    margin-top: 150px;
+}
+.home .profile{
+   font-size: 0.8em;
+    line-height: 36px;
+}
+.center{
+    text-align: center;
+}
+.tip{
+    color:#888
+}
+.keyword a{
+    margin-right: 15px;
+}
+.keyword .primary{
+    background-color: #888888;
+}
+pre,q{
+    font-size:0.6em;
+}
+.debug{
+   background: url(../images/firebug.png) bottom right no-repeat;
+    background-size:320px 320px;
+}
+.seajs{
+    background: url(../images/seajs.png) 80% 80% no-repeat;
+}
+.what{
+    background: url(../images/what-icon.png) bottom right no-repeat ;
+    background-size:220px 220px;
+}
+.why{
+    background: url(../images/why.png) bottom right no-repeat #fff;
+}
+.gruntjs{
+    background: url(../images/grunt-logo.png) bottom right no-repeat;
+}
+.home{
+    background: url(../images/html5.jpg) 150% 100% no-repeat #fff;
+}
+.coop{
+    background: url(../images/coop.jpg) bottom right no-repeat #fff;
+}

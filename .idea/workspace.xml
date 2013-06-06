@@ -4,7 +4,7 @@
     <list default="true" id="2853e8f7-20ed-444d-bcf9-95cb35822767" name="Default" comment="" />
     <ignored path="impressjs.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370407726065" ignored="false" />
+    <file path="/index.html" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370515306448" ignored="false" />
     <file path="/dummy.xml" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370330985719" ignored="false" />
     <file path="/a.dummy" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370427276681" ignored="false" />
     <file path="/socket.io.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370357378499" ignored="false" />
@@ -18,16 +18,16 @@
     <file path="$PROJECT_DIR$/../h5game/impact/demo/GUI/demo/lib/game/joystick.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370404428408" ignored="false" />
     <file path="$PROJECT_DIR$/../h5game/impact/demo/pong/lib/game/entities/paddle-player.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370407788687" ignored="false" />
     <file path="$PROJECT_DIR$/../h5game/impact/demo/pong/socket.html" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370412541658" ignored="false" />
-    <file path="/socket.html" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370412442296" ignored="false" />
+    <file path="/socket.html" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370490614920" ignored="false" />
     <file path="/paddle-player.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370407788687" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.05js/js/embattle/EmbattleScene.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370415648312" ignored="false" />
-    <file path="$PROJECT_DIR$/../91Gods/1.05js/js/chatbox/ChatBoxLayer.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370428001306" ignored="false" />
+    <file path="$PROJECT_DIR$/../91Gods/1.05js/js/chatbox/ChatBoxLayer.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370428874093" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.05/lua/chatbox/PrivateChatLayer.lua" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370416000587" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.05/lua/chatbox/ChatBoxScene.lua" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370416011220" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.05js/js/chatbox/ChatBoxScene.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370416378691" ignored="false" />
     <file path="/ChatBoxScene.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370416191445" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.05/lua/chatbox/ChatBoxLayer.lua" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370421594853" ignored="false" />
-    <file path="/ChatBoxLayer.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370427999375" ignored="false" />
+    <file path="/ChatBoxLayer.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370428631723" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.05js/js/chatbox/ChatBoxLayer_new.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370428036771" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.05/lua/config/GuideCfg.lua" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370418846883" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.05js/js/test.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370419318366" ignored="false" />
@@ -41,6 +41,17 @@
     <file path="$PROJECT_DIR$/../91Gods/1.05js/js/lib/NdFont.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370426291626" ignored="false" />
     <file path="/NdFont.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370426194437" ignored="false" />
     <file path="$PROJECT_DIR$/../91Gods/1.05/lua/lib/NdFont.lua" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370425541453" ignored="false" />
+    <file path="/impress-demo.css" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370509585593" ignored="false" />
+    <file path="$PROJECT_DIR$/../h5game/impact/socket.html" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370490734622" ignored="false" />
+    <file path="$PROJECT_DIR$/../h5game/impact/socket/game.html" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370515241753" ignored="false" />
+    <file path="$PROJECT_DIR$/../h5game/h5g/js/package.json" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370503331998" ignored="false" />
+    <file path="$PROJECT_DIR$/../h5game/h5g/public/js/seajs/debug-rule.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370507208138" ignored="false" />
+    <file path="$PROJECT_DIR$/../h5game/h5g/public/js/seajs/config.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370507242587" ignored="false" />
+    <file path="/config.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370507242587" ignored="false" />
+    <file path="$PROJECT_DIR$/../h5game/h5g/demo/ember/user.less" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370508687603" ignored="false" />
+    <file path="$PROJECT_DIR$/../h5game/h5g/js/Gruntfile.js" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370512657380" ignored="false" />
+    <file path="/game.html" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370514988514" ignored="false" />
+    <file path="$PROJECT_DIR$/../h5game/impact/demo/drop/index.html" changelist="2853e8f7-20ed-444d-bcf9-95cb35822767" time="1370515307986" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,16 +74,25 @@
       <file leaf-file-name="impress.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/impress.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="745" column="38" selection-start="30844" selection-end="30844" vertical-scroll-proportion="0.0">
+            <state line="800" column="0" selection-start="32839" selection-end="32839" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="391" column="0" selection-start="17570" selection-end="17570" vertical-scroll-proportion="-1.6774193">
+            <state line="508" column="25" selection-start="19804" selection-end="19804" vertical-scroll-proportion="0.3929471">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="impress-demo.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/impress-demo.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="755" column="66" selection-start="22111" selection-end="22111" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -87,10 +107,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/socket_client/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="0" selection-start="0" selection-end="2050" vertical-scroll-proportion="0.5155807">
+            <state line="7" column="22" selection-start="181" selection-end="181" vertical-scroll-proportion="37.70968">
               <folding />
             </state>
           </provider>
@@ -99,7 +119,7 @@
       <file leaf-file-name="server.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/socket_server/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
+            <state line="29" column="2" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -118,14 +138,40 @@
         <option value="$PROJECT_DIR$/socket_cli/index.html" />
         <option value="$PROJECT_DIR$/socket_client/socket.io.js" />
         <option value="$PROJECT_DIR$/socket_client/index.html" />
+        <option value="$PROJECT_DIR$/socket_server/server.js" />
+        <option value="$PROJECT_DIR$/js/impress.js" />
+        <option value="$PROJECT_DIR$/css/impress-demo.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="width" value="1367" />
-    <option name="height" value="925" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -199,13 +245,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="impressjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="impressjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="impressjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="impressjs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="Settings.JavaScript.Linters.JSLint" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -235,13 +314,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1367" height="925" extended-state="1" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21310242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17079058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -317,20 +396,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/impress.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="745" column="38" selection-start="30844" selection-end="30844" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="393" column="22" selection-start="17712" selection-end="17712" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/socket_server/install.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="21" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
@@ -349,7 +414,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -389,18 +454,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/impress.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="745" column="38" selection-start="30844" selection-end="30844" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/socket_client/socket.io.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#!!doc" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -412,23 +470,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/socket_client/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="22" selection-start="181" selection-end="181" vertical-scroll-proportion="37.70968">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/socket_server/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
+        <state line="29" column="2" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/impress.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="800" column="0" selection-start="32839" selection-end="32839" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/coop.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/impress-demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="755" column="66" selection-start="22111" selection-end="22111" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="391" column="0" selection-start="17570" selection-end="17570" vertical-scroll-proportion="-1.6774193">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/socket_client/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="0" selection-end="2050" vertical-scroll-proportion="0.5155807">
+        <state line="508" column="25" selection-start="19804" selection-end="19804" vertical-scroll-proportion="0.3929471">
           <folding />
         </state>
       </provider>
